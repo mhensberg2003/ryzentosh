@@ -5,6 +5,8 @@ Hackintosh EFI for Ryzen 7 5800x &amp; RX 6700XT
 
 **OpenCore Version**: 0.9.7 DEBUG
 
+**Everything is working except DRM in Safari. It all runs very smoothly.**
+
 ## Specifications
 | **Component** | **Model** |
 | ------------- | --------- |
