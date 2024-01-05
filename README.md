@@ -18,3 +18,5 @@ Hackintosh EFI for Ryzen 7 5800x &amp; RX 6700XT
 | LAN CHIPSET | Realtek® 8111H Gigabit LAN |
 | AUDIO CHIPSET | Realtek® ALC887 |
 | AUDIO INTERFACE | Focusrite Scarlett Solo 3rd Gen |
+
+If you need help, please message me on GitHub or on telegram at @Lilleris
