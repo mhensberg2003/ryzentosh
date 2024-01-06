@@ -7,6 +7,8 @@ Hackintosh EFI for Ryzen 7 5800x &amp; RX 6700XT
 
 **Everything is working except DRM in Safari. It all runs very smoothly.**
 
+Follow BIOS settings from Dortania Ryzen guide.
+
 ## Specifications
 | **Component** | **Model** |
 | ------------- | --------- |
